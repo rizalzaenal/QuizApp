@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">1.Tahun Berapa Indonesia Merdeka?</string>
+    <string name="answer1">1945</string>
+    <string name="question2">2.Siapa Presiden Pertama Indonesia?</string>
+    <string name="answer2">Ir.Soekarno</string>
+    <string name="question3">3.Apa nama Ibukota Indonesia?</string>
+    <string name="answer3">Jakarta</string>
+    <string name="question4">4.Yang tidak termasuk makanan khas Indonesia?</string>
+    <string name="answer4">Burritos</string>
+    <string name="question5">5.Negara yang bukan mantan penjajah Indonesia?</string>
+    <string name="answer5">Vietnam</string>
+    <string name="answer4a">Spagetti</string>
+    <string name="answer5a">Brazil</string>
+
+
+
+</resources>
